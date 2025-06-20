@@ -6,7 +6,7 @@ project ini menggunakan [Coqui XTTS](https://github.com/coqui-ai/TTS) sebagai vo
 
 ## Features
 
-- **LLM-powered ** using Qwen 2.5 14B (Hugging Face)
+- **LLM-powered** using Qwen 2.5 14B (Hugging Face)
 - **voice synthesis** via XTTS (WebUI edition)
 - **Ready-to-run in Google Colab**(model voice are avaiable by default project)
 - fine tunning custom voice
